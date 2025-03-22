@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6950465b-c593-4f15-9292-bd833c446277" name="Changes" comment="" />
+    <list default="true" id="6950465b-c593-4f15-9292-bd833c446277" name="Changes" comment="index file created">
+      <change afterPath="$PROJECT_DIR$/expense.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/expenses_chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_chart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_chart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maps.js" beforeDir="false" afterPath="$PROJECT_DIR$/maps.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapstyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/mapstyle.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,21 +21,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "MichaelJackClick"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;MichaelJackClick&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/MichaelJackClick/2560-80Week6",
-    "accountId": "3e915a3a-6e46-44c4-bd4d-f1241f15f425"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/MichaelJackClick/2560-80Week6&quot;,
+    &quot;accountId&quot;: &quot;3e915a3a-6e46-44c4-bd4d-f1241f15f425&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2udqyzdnsB7ghYEz3PBD3XfuGS7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -39,6 +47,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/miochongi/WebstormProjects/Week62560-80",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -62,11 +71,37 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1742589057686</updated>
-      <workItem from="1742589058714" duration="976000" />
+      <workItem from="1742589058714" duration="7772000" />
+      <workItem from="1742610516177" duration="73000" />
+      <workItem from="1742610589892" duration="4941000" />
     </task>
+    <task id="LOCAL-00001" summary="index file created">
+      <option name="closed" value="true" />
+      <created>1742590543451</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1742590543451</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="index file created" />
+    <option name="LAST_COMMIT_MESSAGE" value="index file created" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/maps.js</url>
+          <line>28</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
