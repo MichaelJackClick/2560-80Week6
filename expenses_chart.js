@@ -1,4 +1,4 @@
-/* Input elements */
+// Selecting the input elements from the HTML so we can get user input later
 let expenseNameInput = document.querySelector('#expense-name')
 let expenseAmountInput = document.querySelector('#expense-amount')
 let addExpenseButton = document.querySelector('#add-expense')
@@ -77,6 +77,8 @@ addExpenseButton.addEventListener('click', function() {
 
 // TODO add event listener to click the Add Expense button when the enter key is pressed
 
+// Add an event listener to the window to detect when a key is released (keyup)
+// This is to allow the user to add an expense by pressing the Enter key
 window.addEventListener('keyup', function () {
     if (event.keyCode === 13) {
         let inputElements = [expenseNameInput, expenseAmountInput, addExpenseButton]

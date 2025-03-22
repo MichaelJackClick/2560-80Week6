@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6950465b-c593-4f15-9292-bd833c446277" name="Changes" comment="Main Work Complete" />
+    <list default="true" id="6950465b-c593-4f15-9292-bd833c446277" name="Changes" comment="Links to work given">
+      <change afterPath="$PROJECT_DIR$/Bridge.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridges.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FancyBridge.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bridgechart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bridgechart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bridgemapstyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bridges.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_chart.js" beforeDir="false" afterPath="$PROJECT_DIR$/expenses_chart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_chart.js" beforeDir="false" afterPath="$PROJECT_DIR$/hello_chart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +26,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -73,7 +86,7 @@
       <updated>1742589057686</updated>
       <workItem from="1742589058714" duration="7772000" />
       <workItem from="1742610516177" duration="73000" />
-      <workItem from="1742610589892" duration="5275000" />
+      <workItem from="1742610589892" duration="14842000" />
     </task>
     <task id="LOCAL-00001" summary="index file created">
       <option name="closed" value="true" />
@@ -91,7 +104,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742616044164</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Links to work given">
+      <option name="closed" value="true" />
+      <created>1742616405418</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1742616405418</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,17 +121,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="index file created" />
     <MESSAGE value="Main Work Complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="Main Work Complete" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/maps.js</url>
-          <line>28</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Links to work given" />
+    <option name="LAST_COMMIT_MESSAGE" value="Links to work given" />
   </component>
 </project>
