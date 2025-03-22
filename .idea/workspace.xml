@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6950465b-c593-4f15-9292-bd833c446277" name="Changes" comment="Links to work given">
-      <change afterPath="$PROJECT_DIR$/Bridge.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridges.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FancyBridge.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bridgechart.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bridgechart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bridgemapstyle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bridges.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_chart.js" beforeDir="false" afterPath="$PROJECT_DIR$/expenses_chart.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello_chart.js" beforeDir="false" afterPath="$PROJECT_DIR$/hello_chart.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="6950465b-c593-4f15-9292-bd833c446277" name="Changes" comment="Links to work given and finished" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,7 +74,7 @@
       <updated>1742589057686</updated>
       <workItem from="1742589058714" duration="7772000" />
       <workItem from="1742610516177" duration="73000" />
-      <workItem from="1742610589892" duration="14842000" />
+      <workItem from="1742610589892" duration="15321000" />
     </task>
     <task id="LOCAL-00001" summary="index file created">
       <option name="closed" value="true" />
@@ -112,7 +100,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742616405418</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Links to work given and finished">
+      <option name="closed" value="true" />
+      <created>1742625875035</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1742625875035</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,6 +118,7 @@
     <MESSAGE value="index file created" />
     <MESSAGE value="Main Work Complete" />
     <MESSAGE value="Links to work given" />
-    <option name="LAST_COMMIT_MESSAGE" value="Links to work given" />
+    <MESSAGE value="Links to work given and finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Links to work given and finished" />
   </component>
 </project>

@@ -8,7 +8,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(map);
 
 let bridgeIcon = L.icon({
-    iconUrl: 'bridge.png',
+    iconUrl: 'bridge2.png',
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     popupAnchor: [0, -28]
